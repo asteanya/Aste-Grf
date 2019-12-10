@@ -1,11 +1,8 @@
 <p align="center">
-  <img width="600px" src="assets/header.png">
+  <img width="800px" src="assets/header.png">
 </p>
 
-# aste grf
-official rep for aste grf
-
-# About
+# About aste grf
 
 [![aste grf discord server](https://discordapp.com/api/guilds/610091815236010015/widget.png?style=shield)](https://discord.gg/r4Vp47G)
 
@@ -66,4 +63,4 @@ Huge love for my fellow 49 people, you are the best, i love you all <3
 For everyone who participated in the beta test, your help was enormous, this grf ended up this great only because of you. Thank you.
 Thanks to Nova and all NovaRo staff members for everything that you doing for us.
 
-Aste 2019
+**Aste 2019**
