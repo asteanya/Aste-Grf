@@ -1,0 +1,1411 @@
+4001#Lucky#
+4002#Vital#
+4003#Hard#
+4004#Dexterous#
+4005#Hallowed#
+4006#Lucky#
+4007#Beholder#
+4008#Extra#
+4009#Light#
+4010#Wise#
+4011#Dynamic#
+4012#Rigid#
+4013#Excellent#
+4014#of Champion#
+4015#Quick#
+4016#Speedy#
+4017#Stun#
+4018#Smart#
+4019#Martyr#
+4020#Blink#
+4021#Skillful#
+4022#of Spore#
+4023#of Desert#
+4024#Drowsy#
+4025#Keen#
+4026#Shrewd#
+4027#Athletic#
+4028#Double-forced#
+4029#Wolverine#
+4030#Windy#
+4031#of Ares#
+4032#of Athena#
+4033#Detoxication#
+4034#Clever#
+4035#Bloody#
+4036#Robust#
+4037#Untouchable#
+4038#of Health#
+4039#of Aristotle#
+// 4040#Teleport#
+4041#of Sandman#
+4042#of Heman#
+4043#Hurricane#
+// 4044#Hiding#
+4045#Heavy#
+4046#of Cleric#
+// 4047#Ghost#
+4048#Poison#
+4049#Flammable#
+4050#of Hermes#
+4051#of Flash#
+4052#Erudite#
+4053#Healing#
+// 4054#Holy#
+4055#Ice#
+// 4056#of Warmth#
+4057#Silence#
+4058#Cranial#
+4059#of Cadi#
+4060#Clamorous#
+4061#Immortal#
+4062#Envenom#
+4063#Insecticide#
+4064#Nimble#
+4065#Underneath#
+4066#Brutal#
+4067#Atomic#
+4068#Chemical#
+4069#Saharic#
+4070#of Witch#
+// 4071#Angelic#
+4072#Solid#
+4073#Discount#
+4074#of Gargantua#
+4075#Hypnotic#
+4076#Cursing#
+4077#Under a Cast#
+4078#of Recovery#
+4079#of Muscle#
+4080#Fisher#
+// 4081#Glorious#
+4082#Gigantic#
+4083#Homer's#
+4084#Blast#
+4085#Damned#
+4086#Critical#
+// 4087#Order#
+4088#Guard#
+// 4089#Aqua#
+4090#Amulet#
+4091#of Counter#
+4092#Boned#
+4093#Cure#
+4094#Kingbird#
+// 4095#Genie's#
+4096#Venomer's#
+4097#Green#
+// 4098#of Zephyrus#
+// 4099#of Ifrit#
+4100#Soul-Enchanted#
+// 4101#of Gnome#
+4102#Mocking#
+// 4103#Clairvoyant#
+4104#Chaos#
+// 4105#Unfrozen#
+4106#Ancient#
+4107#Fledged#
+// 4108#Innoxious#
+// 4109#Flameguard#
+4110#Viper's#
+4111#Decussate#
+4112#Peerless#
+// 4113#of Ghost#
+// 4114#Poisoning#
+4115#Malicious#
+// 4116#Divine#
+4117#Hybrid#
+4118#Dragoon#
+// 4119#Evil#
+4120#of Dragoon#
+4121#Perfect#
+4122#Adurate#
+4123#Bearer's#
+4124#Plasterer's#
+4125#Aqua#
+4126#Titan#
+4127#Insomniac#
+4128#of Deaf#
+4129#of Rogue#
+4130#Divine#
+4131#Hasty#
+4132#of Gemstone#
+// 4133#Immune#
+4134#Spiritual#
+4135#Mirror#
+4136#from Hell#
+4137#of Infinity#
+4138#Satanic#
+4139#of Moonlight#
+4140#Liberation#
+// 4141#Deadly#
+4142#of Berserk#
+4143#Neutral#
+4144#of Eternity#
+4145#of Bigmouth#
+4146#Reflect#
+4147#Scythe-like#
+4148#of Kirin#
+4149#of Serenity#
+4150#Spell-Proof#
+4151#Havoc Bringer's#
+4152#Sprightly#
+4153#of Cancer#
+4154#Sweet Scented#
+4155#Deadly Goblin's#
+4156#of Fatal Flame#
+4157#Piercing#
+4158#Slaughter#
+4159#Deluxe#
+4160#Superior#
+4161#Anti-Magic#
+4162#Sightless#
+4163#Wild#
+4164#Fisherman's#
+4165#of Insect Soul Eater#
+4166#of Jinx#
+4167#of Beast Soul Eater#
+4168#of Doom#
+4169#Spell Master's#
+4170#Solidifying#
+4171#Soul Draining#
+4172#Slicing#
+4173#Mesmerizing#
+// 4174#Deviant#
+4175#Shoving#
+4176#Fatal Serpentine#
+4177#Green Stone#
+4178#Bow-Master's#
+4179#of Highlight#
+4180#of Dragon Soul Eater#
+4181#Soundless#
+4182#of Demon Soul Eater#
+4183#Werewolf#
+4184#Crushing#
+4185#of Wisdom#
+4186#Strenuous#
+4187#of the Spooky Night#
+// 4188#Red Stone#
+4189#of Misfortune#
+4190#of Last Laugh#
+4191#of the Stix#
+4192#of Fatal Pisces#
+4193#of Patience#
+4194#Overpowering#
+// 4195#Blue Stone#
+4196#of Jellopy#
+4197#Lucky Streak#
+4198#of True Sight#
+4199#Dashing#
+4200#of Mystical Resistance#
+4201#Crippling#
+4202#of Exorcism#
+4203#Blazing#
+4204#Poacher's#
+4205#Blue Cubic#
+4206#Cubic#
+4207#Anti-Small#
+4208#Energetic#
+4209#Fiddler's#
+4210#Pressure#
+4211#Virtuoso's#
+4212#of Knock-Back#
+4213#of Reticence#
+4214#Man-Eater's#
+4215#Rationing#
+4216#Freezing#
+4217#Rejuvenating#
+4218#Nightmarish#
+4219#Magic Stone#
+4220#Faithful#
+4221#Insect Collector's#
+4222#of Sleep#
+4223#Stun-Proof#
+4224#Monsoon#
+4225#Slingshot#
+4226#Supreme#
+4227#Roast Scented#
+4228#of Siesta#
+4229#of Torment#
+4230#Coward's#
+4231#Charging#
+4232#Refreshing#
+4233#Lucky Fluke#
+4234#of Clarity#
+4235#Fallen Angel's#
+4236#Protective#
+4237#of Godly Wrath#
+4238#of Doubled Power#
+4239#Veteran Hunter's#
+4240#Magic-Proof#
+4241#Miraculous#
+4242#Prime#
+4243#of Escape#
+4244#Seeker's#
+4245#Assassinator's#
+4246#Killing#
+4247#Starfish's#
+4248#Shining Cross#
+4249#Witch Doctor's#
+4250#Anti-Large#
+4251#Invasion#
+4252#Four Leaf Clover#
+4253#of Royal Guard#
+4254#Anti-Medium#
+4255#Smashing#
+4256#Desirable#
+4257#Wing#
+4258#Prodigy#
+4259#of Nature#
+4260#Confusion Resistant#
+4261#Bleed Resistant#
+4262#Dark Sky#
+4263#Bloodlust#
+4264#Thunderbolt#
+4265#of Dawn#
+4266#Magic Resistant#
+4267#Dragon Slayer's#
+4268#Extending#
+4269#Fatasm#
+4270#of Venom#
+// 4271#Yellow Stone#
+4272#Swift#
+4273#Shell#
+4274#of Undead Soul Eater#
+4275#Undead Killer's#
+4276#Crucial#
+4277#Dominatrix#
+4278#of Magical Immunity#
+4279#Soul Collector's#
+4280#Blessed#
+4281#Diligent#
+4282#of Reservoir#
+4283#Mana Sphere#
+4284#of Caress#
+4285#Elven-Enchanted#
+4286#Terrorizing#
+4287#Magically Shielded#
+4288#Maestro#
+4289#of Plant Soul Eater#
+4290#Mirror#
+4291#Deadly Kobold's#
+4292#Deadly Plant's#
+4293#of Chance#
+4294#Sneaky#
+4295#of Blackout#
+4296#Greedy#
+4297#Poaching#
+4298#of Mayhem#
+4299#Guardian's#
+4300#Venomous Charge#
+4301#Traumatic#
+4302#High Risk#
+4303#Mystic#
+4304#Shield Master's#
+4305#Explosive#
+4306#King's#
+4307#of Marine Soul Eater#
+4308#Power Draining#
+4309#Reinforced#
+4310#Fatally Evil#
+// 4311#Anti-Evil#
+4312#of the Soul#
+4313#Bogie#
+4314#Fire-Proof#
+4315#of Stone Curse#
+4316#of Angel Soul Eater#
+4317#Aural#
+4318#Storm-Bringer's#
+4319#Sword-Master's#
+4320#Meteoric#
+4321#Polymorphic#
+4322#of Retaliation#
+4323#of Frost#
+4324#Arctic#
+4325#Vicious#
+4326#Ocean Scented#
+4327#Spell Flow#
+4328#Hyper#
+4329#Soul Gain#
+4330#Curse Lift#
+4331#Evasion#
+4332#of Talent#
+4333#of Chaotic Venom#
+// 4334#Anti-Sniping#
+4335#Gnome#
+4336#of Vitality#
+4337#of Wildcat#
+4338#of Vital Switching#
+4339#of Stone Wall#
+4340#of Requiem#
+4341#Disarm#
+4342#Mammoth#
+4343#of Creator#
+4344#of Value#
+4345#Sylph#
+4346#of Power Switching#
+4347#Stamina#
+4348#Gangster#
+4349#Anti-Arrow#
+4350#Undine#
+4351#Low Level#
+4352#of Regeneration#
+4353#of Rejuvenation#
+4354#of Stability#
+4355#Healthy#
+4356#Magic Cancel#
+4357#of Fury#
+4358#Lost-Power#
+4359#of Shadow#
+4360#Assassin#
+4361#of Hollgrehenn#
+4362#Heat#
+4363#Protection#
+4364#of Magic Sealing#
+4365#of Tempest#
+4366#of Caster#
+4367#of Squeezing#
+4368#Rapid#
+4369#of Luck Switching#
+4370#Weakening#
+4371#of Paladin#
+4372#Life Stream#
+4373#Cursed#
+4374#of Vision#
+4375#Extra High Level#
+4376#Manful#
+4377#Sweetie#
+4378#Low Level#
+4379#Low Level#
+4380#Salamander#
+4381#of Wanderer#
+4382#of Scholar#
+4383#Chaotic#
+4384#Magic Eater#
+4385#Drink#
+4386#of Magic Shelter#
+4387#of Agility Switching#
+4388#Soul#
+4389#Elemental#
+4390#Blooding#
+4391#Snack#
+4392#of Dexterity Switching#
+4393#of Intelligence Switching#
+4394#Divine Cross#
+4395#Slug#
+4396#Dull#
+4397#Stupidity#
+4398#Darkness#
+4399#Penetration#
+4400#of Temptation#
+4401#Swift#
+4402#Strange#
+4403#of Reload#
+4404#of Chaotic Bleeding#
+4405#of Magic Mirror#
+4406#Twinkle#
+4407#of Elimination#
+4408#Abyss#
+4409#Panic#
+4410#Madness#
+4411#Arta's#
+4412#Aria#
+4413#Resistance#
+4414#Gorgon's#
+4415#Sweet#
+4416#of Grain#
+4417#of Flow#
+4418#of Hail#
+4419#Jack Frost#
+4420#of Comfort#
+4421#of Chinook#
+4422#Breeze#
+4423#of Sharkia#
+4424#Stony#
+4425#Beast#
+4426#Exceeding#
+4427#of Force#
+4428#of Shaft#
+4429#Nessus's#
+4430#of Inferno#
+4431#Stygian#
+4432#Scorching#
+4433#of Ignis#
+4434#Miner's#
+4435#Outrageous#
+4436#Lunatic#
+4437#Rabid#
+4438#Mental#
+4439#of Anathema#
+4440#of Ignoring#
+4441#Arrogant#
+4442#of Basis#
+4443#of Underneath#
+4444#of Saharic#
+4445#of Windy#
+4446#Sharpen#
+4447#of Envenom#
+4448#of Damned#
+4449#of Hallowed#
+4450#Surplus#
+4451#of Excess#
+4452#Magical#
+4453#Fierce#
+4454#Alchemy#
+4455#Love#
+4456#Spell Master#
+4457#Psychic#
+4458#of Illusion#
+4459#of Fast#
+4460#of Healing#
+4461#of Sharp#
+4462#Prime Defense#
+4463#Prime Attack#
+4464#Fatal#
+4465#Sweeping#
+4466#Straight Shooting#
+4467#Heavy#
+4468#Polution#
+4469#Marine#
+4470#Botany#
+4471#Draco#
+4472#Carnivore#
+4473#Undead#
+4474#Mortal#
+4475#Intangible#
+4476#Entomic#
+4477#Demonic#
+4478##
+4479##
+4480#of Devilish#
+4481#Half Jack Frost#
+4482#Of Half regeneration#
+4483#Half Spiritual#
+4484#Of Half Gemstone#
+4485#Half Abyss#
+4486#of the Half Big Mouse#
+4487#Half of Inferno#
+4488#of Half Doom#
+4489#Half Giraffe#
+4490#Half Tea#
+4491#Half of Squeezing#
+4492##
+4493#Half High Risk#
+4494#Half Blast#
+4495##
+4496##
+4497#Half Storm#
+4498##
+4499##
+4500##
+4501##
+4502##
+4503#Half of Vision#
+4504##
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insectproof#
+4510#Black-out#
+4511#Silentium#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stone wall#
+4517#of Magician#
+4518#Burning#
+4519#Seraphim#
+4520#Screaming#
+4521#Mortal Blow#
+4522#Cold#
+// 4523#Aquarius#
+4524#of Swordman#
+4525#Sweeping#
+4526#of Magic Defense#
+4527#of Defense#
+4528#Of mental strength#
+4529#Strength#
+4530#of Merchant#
+4531#Under Curse#
+4532#Sprinting#
+4533#Blinding#
+4534#Water Bomb#
+4535##
+4536##
+4537##
+4538#Half LifeStream#
+4539#Half Arrogant#
+4540##
+4541##
+4542##
+4543##
+4544##
+4545#Punk#
+4546#Fucked up#
+4547##
+4548##
+4549##
+4550##
+4551##
+4552##
+4553##
+4554##
+4555##
+4556#Power Ward#
+4557#of Spell Power#
+4558##
+4559#Blitz#
+4560#of Bragi#
+4561#of Magic Protection#
+4562#Of penetrating#
+4563#Of Hydrochloride#
+4564#Of Gentleman#
+4565#of Grand Cross#
+4566#Of lucky#
+4567#of Bard#
+4568#of Gnosis#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
+4575#Shortcut#
+4576#Educe#
+// 4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580##
+4581#Toilet#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
+4592#of Stone Curse#
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
+4608#Knights#
+4609#Knight#
+4610#The cage#
+
+4623##
+
+4625#Sage#
+4626#Echo#
+4627#Vibration#
+4628#of Invisible Horror#
+4629#Sterile#
+4630#of Timekeeper#
+4631#Volant#
+4632#Current#
+4633#Queen Bird#
+4634#Fatal#
+4635#Tight#
+4636#Temporal#
+4637#of Drain#
+4638#Plaid#
+4639#Martial#
+4640#Noetic#
+4641#of Soul Gathering#
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flaming#
+4658#of Magic#
+4659#Adventurer#
+4660#of Will#
+4661#of Strength#
+4662#Trinity#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Geosetter#
+4670#Blaze#
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Maestro#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Genetic#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage Blast#
+4694#Decoy#
+4695#Rainstorm#
+4696#Sound Shock#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+
+// 4908#of Demon's Power I#
+// 4909#of Demon's Power II#
+// 4910#of Demon's Power III#
+// 4911#of Demon's Wit I#
+// 4912#of Demon's Wit II#
+// 4913#of Demon's Wit III#
+// 4914#of Demon's Speed I#
+// 4915#of Demon's Speed II#
+// 4916#of Demon's Speed III#
+// 4917#of Demon's Endurance I#
+// 4918#of Demon's Endurance II#
+// 4919#of Demon's Endurance III#
+// 4920#of Demon's Focus I#
+// 4921#of Demon's Focus II#
+// 4922#of Demon's Focus III#
+// 4923#of Demon's Fortune I#
+// 4924#of Demon's Fortune II#
+// 4925#of Demon's Fortune III#
+
+// 4991#Carefree#
+
+// 4998#of Valor#
+// 4999#of Aegis#
+
+27012#Active Protection#
+27013#Vulcan#
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Temporary#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+
+27026#Blazing#
+27027#Burning#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+27081#Moonlight#
+27082#Foxtail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#Incite#
+
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug#
+27110#Nimble#
+// 27111#Cheerful#
+27112#Sturdy#
+27113#Frozen#
+27114#Firm#
+27115#Sensible#
+27116#Dual Critical#
+27117#Lethal#
+27118#of Pierce#
+27119#of Turtle Shell#
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect Collector's#
+27124#Hunter's#
+// 27125#Aqua Benedict#
+27126#Python#
+
+27147#Intensive#
+27148#Default#
+27149#Sniping#
+27150#of High Level#
+27151#of Freezing#
+27152#Prompt#
+
+27157#of Aqua Wood#
+27158#of Windiness#
+27159#Demon Hunter#
+27160#Dodge#
+// 27161#Land Blast#
+27162#Soul Steal#
+27163#of Abranchia#
+27164#Koya#
+27165#of Avian#
+27166#Frio#
+27167#Glacial#
+27168#of Padre#
+27169#Infante#
+27170#of Dust#
+27171#of Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#of Dirty#
+27177#of Marsh#
+27178#of Zero Guard#
+27179#of Wild Fang#
+27180#Power Break#
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+
+27249#Arhi#
+27250#Dio Anemos#
+27251#Geffen Gangster#
+27252#Geffen Bully#
+27253#Geffen Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Kuro Akuma#
+27258#Ifodes#
+27259#Licheni#
+27260#Odoric#
+27261#Ju#
+// 27262#Dwigh#
+27263#Fay Kanavian#
+27264#of Evil Shadow#
+27265#Evil Fanatic#
+
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
+
+27304#Health#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#of Holy Power#
+27310#of Immortal#
+27311#Heavy knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#of Tiger Power#
+27319#Poison Break#
+27320#Enhance Fire#
+27321#Demon God's#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
+27325#Muspelheim#
+27326#Morocc's Minion Card#
+27327#Grim Reaper Ankou#
+27328#Corrupt Life#
+
+27334#of Chaotic#
+27335#of Blackguard#
+27336#of Viper#
+27337#Hunting Breeze#
+27338#of Double Power#
+27339#Ghost#
+27340#of Angry Killer#
+27341#of Water Shell#
+27342#Metal Ground#
+27343#Holy Spell#
+
+27334#of Chaotic#
+27335#of Blackguard#
+27336#of Viper#
+27337#Hunting Breeze#
+27338#of Double Power#
+27339#Ghost#
+27340#of Angry Killer#
+27341#of Water Shell#
+27342#Metal Ground#
+27343#Holy Spell#
+
+27346#of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#of Flame Barrier#
+27350#of Dragon Spirit#
+27351#of Dragon Heart#
+27352#Slumber#
+27353#of Demonic Barrier#
+27354#of Deprave#
+27355#Depraved#
+27356#of Frozen Guard#
+27357#of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#of Queen Spider#
+27363#Doomed#
+
+31016#Sorrow#
+31017#of Hatred#
+31018#of Frustration#
+31019#Chills#
+31020#of Anger#
+31021#Loony#
+31022#of Despair#
+31023#of Kimi#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+
+32412#Prismatic#
+
+
+
+// aste custom prefix
+
+
+// ~~~ headgear
+// resist
+4087#Earth Resist#
+4195#Water Resist#
+4188#Fire Resist#
+4271#Wind Resist#
+4311#Shadow&Undead Resist#
+// additional
+
+// ~~~ armor
+// resist
+4099#Fire#
+4089#Water#
+4523#Water#
+4098#Wind#
+4101#Earth#
+4054#Holy#
+4119#Shadow#
+4047#Ghost#
+4141#Undead#
+4114#Poison#
+// additional
+4105#Unfrozen#
+
+// ~~~ garment
+4133#Neutral#
+4056#Wind#
+4081#Earth#
+4109#Fire#
+4095#Water#
+4116#Shadow#
+4113#Ghost#
+4108#Poison#
+4071#Undead#
+// additional
+4334#Noxious#
+4174#Devil#
+
+// ~~~ stat enchant
+4700#Str1#
+4701#Str2#
+4702#Str3#
+4703#Str4#
+4704#Str5#
+4705#Str6#
+4706#Str7#
+4707#Str8#
+4708#Str9#
+4709#Str10#
+4710#Int1#
+4711#Int2#
+4712#Int3#
+4713#Int4#
+4714#Int5#
+4715#Int6#
+4716#Int7#
+4717#Int8#
+4718#Int9#
+4719#Int10#
+4720#Dex1#
+4721#Dex2#
+4722#Dex3#
+4723#Dex4#
+4724#Dex5#
+4725#Dex6#
+4726#Dex7#
+4727#Dex8#
+4728#Dex9#
+4729#Dex10#
+4730#Agi1#
+4731#Agi2#
+4732#Agi3#
+4733#Agi4#
+4734#Agi5#
+4735#Agi6#
+4736#Agi7#
+4737#Agi8#
+4738#Agi9#
+4739#Agi10#
+4740#Vit1#
+4741#Vit2#
+4742#Vit3#
+4743#Vit4#
+4744#Vit5#
+4745#Vit6#
+4746#Vit7#
+4747#Vit8#
+4748#Vit9#
+4749#Vit10#
+4750#Luk1#
+4751#Luk2#
+4752#Luk3#
+4753#Luk4#
+4754#Luk5#
+4755#Luk6#
+4756#Luk7#
+4757#Luk8#
+4758#Luk9#
+4759#Luk10#
+
+// ~~~ gss enchant
+4853#sStr#
+4854#sAgi#
+4855#sVit#
+4856#sInt#
+4857#sDex#
+4858#sLuk#
+
+// ~~~ essence of evil
+4908#EoeStr1#
+4909#EoeStr2#
+4910#EoeStr3#
+4911#EoeInt1#
+4912#EoeInt2#
+4913#EoeInt3#
+4914#EoeAgi1#
+4915#EoeAgi2#
+4916#EoeAgi3#
+4917#EoeVit1#
+4918#EoeVit2#
+4919#EoeVit3#
+4920#EoeDex1#
+4921#EoeDex2#
+4922#EoeDex3#
+4923#EoeLuk1#
+4924#EoeLuk2#
+4925#EoeLuk3#
+
+// ~~~ honor token enchants
+4994#StrLv1#
+4995#StrLv2#
+4996#StrLv3#
+4997#Agilv1#
+4998#Agilv2#
+4999#Agilv3#
+29100#IntLv1#
+29101#IntLv2#
+29102#IntLv3#
+29103#DexLv1#
+29104#DexLv2#
+29105#DexLv3#
+29106#LukLv1#
+29107#LukLv2#
+29108#LukLv3#
+29109#VitLv1#
+29110#VitLv2#
+29111#VitLv3#
+
+// ~~~ bio5 enchants
+// mettle
+29151#MettleLv1#
+29152#MettleLv2#
+29153#MettleLv3#
+29154#MettleLv4#
+29155#MettleLv5#
+29156#MettleLv6#
+29157#MettleLv7#
+29158#MettleLv8#
+29159#MettleLv9#
+29160#MettleLv10#
+// magic essence
+29071#MeLv1#
+29072#MeLv2#
+29073#MeLv3#
+29074#MeLv4#
+29075#MeLv5#
+29076#MeLv6#
+29077#MeLv7#
+29078#MeLv8#
+29079#MeLv9#
+29080#MeLv10#
+// acute
+29081#AcuteLv1#
+29082#AcuteLv2#
+29083#AcuteLv3#
+29084#AcuteLv4#
+29085#AcuteLv5#
+29086#AcuteLv6#
+29087#AcuteLv7#
+29088#AcuteLv8#
+29089#AcuteLv9#
+29090#AcuteLv10#
+// archer
+29141#ArcherLv1#
+29142#ArcherLv2#
+29143#ArcherLv3#
+29144#ArcherLv4#
+29145#ArcherLv5#
+29146#ArcherLv6#
+29147#ArcherLv7#
+29148#ArcherLv8#
+29149#ArcherLv9#
+29150#ArcherLv10#
+// adamantine
+29121#AdamantineLv1#
+29122#AdamantineLv2#
+29123#AdamantineLv3#
+29124#AdamantineLv4#
+29125#AdamantineLv5#
+29126#AdamantineLv6#
+29127#AdamantineLv7#
+29128#AdamantineLv8#
+29129#AdamantineLv9#
+29130#AdamantineLv10#
+// affection
+29131#AffectionLv1#
+29132#AffectionLv2#
+29133#AffectionLv3#
+29134#AffectionLv4#
+29135#AffectionLv5#
+29136#AffectionLv6#
+29137#AffectionLv7#
+29138#AffectionLv8#
+29139#AffectionLv9#
+29140#AffectionLv10#
+
+// ~~~ other enchants
+// fighting spirit
+4808#Fs4#
+4809#Fs3#
+4810#Fs2#
+4811#Fs1#
+4820#Fs5#
+4821#Fs6#
+4822#Fs7#
+4823#Fs8#
+4824#Fs9#
+4825#Fs10#
+// spell
+4812#Spell4#
+4813#Spell3#
+4814#Spell2#
+4815#Spell1#
+4826#Spell5#
+4827#Spell6#
+4828#Spell7#
+4829#Spell8#
+4830#Spell9#
+4831#Spell10#
+// expert archer
+4832#Ea1#
+4833#Ea2#
+4834#Ea3#
+4835#Ea4#
+4836#Ea5#
+4837#Ea6#
+4838#Ea7#
+4839#Ea8#
+4840#Ea9#
+4841#Ea10#
+// aspd
+4869#Aspd1#
+4872#Aspd2#
+4873#Aspd3#
+4881#Aspd4#
+// max hp
+4861#Hp1%#
+4862#Hp2%#
+4867#Hp3%#
+4868#Hp4%#
+4900#Hp5%#
+
+// ~~~ temporal boots enchants
+4875#BM#
+4876#RM#
+4877#SoL#
+4878#ME#
+4879#HE#
+4880#LD#
+
+// ~~~ verus enchants
+4970#Fire# //		Fire Property Reactor	Etc
+4971#Water# //		Water Property Reactor	Etc
+4972#Earth# //		Earth Property Reactor	Etc
+4973#Wind# //		Wind Property Reactor	Etc
+4974#FireResist# //		Fire Resistance Reactor	Etc
+4975#WaterResist# //		Water Resistance Reactor	Etc
+4976#EarthResist# //		Earth Resistance Reactor	Etc
+4977#WindResist# //		Wind Resistance Reactor	Etc
+4978#Rec101# //		Recovery 101 Reactor	Etc
+4979#Rec102# //		Recovery 102 Reactor	Etc
+4980#Rec201# //		Recovery 201 Reactor	Etc
+4981#Rec202# //		Recovery 202 Reactor	Etc
+4982#Str# //		Str Supplement Reactor	Etc
+4983#Int# //		Int Supplement Reactor	Etc
+4984#Def# //		DEF Supplement Reactor	Etc
+4985#Pd# //		PD Supplement Reactor	Etc
+4986#Attack# //		Attack Supplement Reactor	Etc
+4987#Magic# //		Magic Supplement Reactor	Etc
+4988#Hp# //		HP Supplement Reactor	Etc
+4989#Sp# //		SP Supplement Reactor	Etc
+4990#Unfrozen# //		Frozen Supplement Reactor	Etc
+4991#Aspd# //		ASPD Supplement Reactor
+
+// ~~~ random
+// matk
+4760#Matk1%# //		MATK +1%	Card
+4896#Matk2%# //		MATK +2%	Card
+4897#Matk3%# //		MATK +3%	Card
+4898#Matk4%# //		MATK +4%	Card
+4899#Matk5%# //		MATK +5%	Card
+4906#Matk6%# //		MATK +6	Card
+4907#Matk7%# //		MATK +7%	Card
+
+4883#Matk1%# //		MATK +1%	Card
+4761#Matk2%# //		MATK+2%	Card
+4806#Matk3%# //		MATK+3%	Card
+
+
+// atk
+4819#Atk1%# //		ATK +1%	Card
+4882#Atk1%# //		ATK +1%	Card
+4766#Atk2%# //		ATK +2%	Card
+4767#Atk3%# //		ATK +3%	Card
+4894#Atk4%# //		ATK +4%	Card
+4895#Atk5%# //		ATK +5%	Card
+4904#Atk6%# //		ATK +6%	Card
+4905#Atk7%# //		ATK +7%	Card
+
+// sharp
+4818#Sharp1# //		Sharp1	Card
+4844#Sharp5# //		Sharp 5	Card
+4843#Sharp4# //		Sharp 4	Card
+4816#Sharp3# //		Sharp 3	Card
+4817#Sharp2# //		Sharp 2
+
+
+// flee
+4859#Flee1# //		Evasion 1	Card
+4860#Flee3# //		Evasion 3
+4762#Flee6# //		FLEE+6	Card
+4763#Flee12# //		FLEE+12
+
+
+// hp
+4795#Hp100# //		HP+100	Card
+4796#Hp200# //		HP+200	Card
+4797#Hp300# //		HP+300	Card
+4798#Hp400# //		HP+400	Card
+4799#Hp500# //		HP+500
+
+// def
+4903#Def21# //		DEF+21	Card
+4902#Def18# //		DEF+18	Card
+4793#Def9# //		DEF +9	Card
+4792#Def6# //		DEF +6	Card
+4791#Def3# //		DEF +3	Card
+4893#Def15# //		DEF +15	Card
+4794#Def12# //		DEF +12
+
+// mdef
+4789#Mdef8# //		MDEF+8	Card
+4788#Mdef6# //		MDEF+6	Card
+4790#Mdef10# //		MDEF+10	Card
+4892#Mdef5# //		MDEF +5	Card
+4787#Mdef4# //		MDEF +4	Card
+4891#Mdef3# //		MDEF +3	Card
+4786#Mdef2# //		MDEF +2	Card
+4890#Mdef1# //		MDEF +1	Card
+
+// atk speed
+4807#Aspd1# //		Atk Speed 1	Card
+4842#Aspd2# //		ASPD 2	Card
+
+// heal amount
+4852#Heal5# //		Heal Amount 5	Card
+4851#Heal4# //		Heal Amount 4	Card
+4850#Heal3# //		Heal Amount 3
+
+// ab rings enchant
+4805#ArchBishop# //		Archbishop1Lv.	Card
+4804#Catholic# //		Catholic1Lv.
+4803#Cure# //		Cure1Lv.
+
+// sp
+4800#Sp50# //		SP +50	Card
+4801#Sp100# //		SP +100	Card
+4802#Sp150# //		SP +150	Card
+4870#Sp25# //		SP +25	Card
+4871#Sp75# //		SP +75	Card
+4928#Sp10# //		MaxSP+10	Card
+4929#Sp1%# //		MSP+1%	Etc
+
+// neutral resist
+4933#NeutralResist1# //		Neutral Resistance Lv1	Card
+4934#NeutralResist2# //		Neutral Resistance Lv2	Card
+4935#NeutralResist3# //		Neutral Resistance Lv3
+
+// fatal
+4863#Fatal1# //		Fatal Lv 1	Card
+4864#Fatal2# //		Fatal Lv 2	Card
+4865#Fatal3# //		Fatal Lv 3	Card
+4866#Fatal4# //		Fatal Lv 4	Card
+
+// delay after Skill
+4948#Acd1# //		Delay After Skill Lv1	Card
+4949#Acd2# //		Delay After Skill Lv2	Card
+4950#Acd3# //		Delay After Skill Lv3	Card
+
+// parrying
+4942#Parrying1# //		Parrying Lv1	Card
+4943#Parrying2# //		Parrying Lv2	Card
+4944#Parrying3# //		Parrying Lv3	Card
+
+// saving
+4945#Saving1# //		Saving Lv1	Card
+4946#Saving1# //		Saving Lv2	Card
+4947#Saving1# //		Saving Lv3	Card
+
+// critical
+4926#Crit1# //		Critical Lv1	Card
+4939#Crit2# //		Critical Lv2	Card
+4940#Crit4# //		Critical Lv3	Card
+4941#Crit6# //		Critical Lv4	Card
+
+// critical 2
+4764#Crit5#	//  	CRI+5	Card
+4765#Crit7# //		CRI+7	Card
+
+// attack size
+4938#SmallAtt# //
+4937#MediumAtt# //
+4936#LargeAtt# //		Large Attack 1	Card
+
+// hp absorb
+4992#HpAbsorb1# //		HP Absortion 1	Card
+29210#HpAbsorb2# //		HP Absortion 2	Card
+
+// sp absorb
+4993#SpAbsorb1# //		SP Absortion 1	Card
+29208#SpAbsorb2# //		SP Absortion 2	Card
+
+// spell 2
+4885#Spell1# //		Spell 1	Card
+4886#Spell2# //
+4887#Spell3# //
+4888#Spell4# //
+4889#Spell5# //
+
+// hit
+4884#Hit1# //		HIT +1	Card
+
+// sp recovery
+4932#SpRec# //		SP Recovery 1	Etc
+
+// 17.1 enchants
+39527#Def#
+39528#Mdef#
+39529#Hp Rec#
+39530#Mental#
+39531#Vital#
+39532#Sp Rec#
+39533#WillPower#
+39534#Power#
+39535#Magic#
+39536#Shooter#
+39537#Fast#
+39538#Caster#
+39539#Critical#
+39540#Delay#
+39541#Fixed Cast#
+39542#Above All#
+39543#Drain Life#
+39544#Drain Soul#
+39545#Magic Healing#
+39546#Magic Soul#
+39547#Unlimited Vital#
+39548#Spell Buster#
+39549#Firing Shot#
+39550#Overpower#
+39551#Fatal Flash#
+39552#Lucky Strike#
+
+// magic elemental boost accessory cards
+4577#Wind/Ghost#
+27161#Fire/Earth#
+27262#Neutral/Shadow#
+27125#Water/Holy#
+
+// freya's necklace enchants
+39121#ATK+20,HIT+2,MaxHP+300#   // Goddess of Justice A
+39122#ATK+40,HIT+4,MaxHP+600#   // Goddess of Justice S
+39123#MATK+20,Heal+4%,MaxSP+20# // Goddess of Mercy A
+39124#MATK+40,Heal+8%,MaxSP+40# // Goddess of Mercy S
+39125#BowDmg+5%,CRI+5#          // Goddess of Insight A
+39126#BowDmg+10%,CRI+10#        // Goddess of Insight S
+
+// random accessory cards
+4103#Horong#
+27111#Furious Snowier#
+4044#Hiding#
+4040#Teleport#
