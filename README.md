@@ -22,7 +22,7 @@ Even though it’s a woe grf at the first place, it’s still fully playable for
 
 ## MH2 Graymap
 
-Due to the encryption of mh2 graymap it can be shared here in github, but if you still want to have it you can use this clear grf with encrypted mh2 map as a base and build your own version of grf upon it [aste-grf-mh2-clear-base](https://github.com/asteanya/grf/releases/download/v2/aste-grf-mh2-clear-base.grf).
+Due to the encryption of mh2 graymap it can't be shared here in github, but if you still want to have it, you can use this clear grf with encrypted mh2 map as a base and build your own version of grf upon it [aste-grf-mh2-clear-base](https://github.com/asteanya/grf/releases/download/v2/aste-grf-mh2-clear-base.grf).
 
 ## Special thanks
 
