@@ -1404,6 +1404,14 @@
 39125#BowDmg+5%,CRI+5#          // Goddess of Insight A
 39126#BowDmg+10%,CRI+10#        // Goddess of Insight S
 
+// king schmidt's insignia enchants
+39587#Flash#
+39588#Strong#
+39589#Thousand Bow#
+39590#Divine Power#
+39591#Rigid#
+39592#Hundred Luck#
+
 // random accessory cards
 4103#Horong#
 27111#Furious Snowier#
