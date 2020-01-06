@@ -12770,9 +12770,9 @@ SKILL_INFO_LIST = {
 		AttackRange = { 1 },
 		Type = "Quest",
 	},
-	[SKID.MH_RESOURCEFUL] = {
-		"MH_RESOURCEFUL",
-		SkillName = "Resourceful",
+	[SKID.MH_EVASION_MASTERY] = {
+		"MH_EVASION_MASTERY",
+		SkillName = "Evasion Mastery",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
