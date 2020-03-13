@@ -901,6 +901,32 @@
 
 32412#Prismatic#
 
+32412#Prismatic#
+
+40000#of Psychic#
+40001#High Envenom#
+40002#Bulletproof Vest's#
+40003#of Wild Dog#
+40004#of Iron Wall#
+40005#of High Worker#
+
+40007#Solid Break#
+40008#Holy Twinkle#
+40009#Ghost Magical#
+40010#Wind Magical#
+40011#Saint Magical#
+40012#of Sacred#
+40013#Reginleif#
+40014#Ingrid#
+40015#Remedy Low Level#
+40016#of Treasure#
+40017#High Hallowed#
+40018#High Damned#
+40019#Dragon Slayer's#
+40020#Poacher's#
+40021#Dragon Killer#
+
+40140#Deep Sea Sropho Card#
 
 
 // aste custom prefix
@@ -1409,3 +1435,11 @@
 27111#Furious Snowier#
 4044#Hiding#
 4040#Teleport#
+
+// odin 4 enchants
+41076#StrBless#
+41077#AgiBless#
+41078#VitBless#
+41079#DexBless#
+41080#IntBless#
+41081#LukBless#

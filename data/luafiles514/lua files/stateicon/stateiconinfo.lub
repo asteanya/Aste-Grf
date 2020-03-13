@@ -4000,10 +4000,10 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_HIDDEN] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "´ë¸¶¹ý ¹æ¾î ¿¡³ÊÁö°¡"
+      "ï¿½ë¸¶ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
     },
     {
-      "¼ö¾øÀÌ °ãÃÄÀÖ½À´Ï´Ù."
+      "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö½ï¿½ï¿½Ï´ï¿½."
     },
     { "%s", COLOR_TIME }
   }
@@ -4054,7 +4054,7 @@ StateIconList[EFST_IDs.EFST_GVG_GIANT] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "¼­¸®°ÅÀÎÀÇ ÇÇ",
+      "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     {
@@ -4368,7 +4368,7 @@ StateIconList[EFST_IDs.EFST_CHILL] = {
   descript = {
     { "Chill", COLOR_TITLE_DEBUFF},
     {
-      "È­»ó È¿°ú¿¡ °É¸®Áö ¾Ê´Â´Ù"
+      "È­ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½É¸ï¿½ï¿½ï¿½ ï¿½Ê´Â´ï¿½"
     },
     { "%s", COLOR_TIME }
   }
@@ -4515,7 +4515,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "´º¿ÀÁîÀÇ ¾û¶×ÇÔ",
+      "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     { "Increase ATK" },
@@ -4527,7 +4527,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF2] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "¾ÆÀÌ±¸ÀÇ ÀÇÁö",
+      "ï¿½ï¿½ï¿½Ì±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     { "Increase MATK" },
@@ -4539,7 +4539,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF3] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "·ÎÅ×¸£Æ®ÀÇ Çã¼¼",
+      "ï¿½ï¿½ï¿½×¸ï¿½Æ®ï¿½ï¿½ ï¿½ã¼¼",
       COLOR_TITLE_BUFF
     },
     {
@@ -4553,7 +4553,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF4] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "°ÖÄ«ÀÇ ¼öÁÝÀ½",
+      "ï¿½ï¿½Ä«ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     {
@@ -4567,7 +4567,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "¾Æ¶ûÀÇ ÃµÁø³­¸¸ÇÔ",
+      "ï¿½Æ¶ï¿½ï¿½ï¿½ Ãµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     {
@@ -4581,7 +4581,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF6] = {
   posTimeLimitStr = 3,
   descript = {
     {
-      "¹Ö¹ÎÀÇ ¼¼¹ÐÇÔ",
+      "ï¿½Ö¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
       COLOR_TITLE_BUFF
     },
     {
@@ -4603,7 +4603,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF8] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 3,
   descript = {
-    { "·ç³ªÀÎÀÇ ¼¼Ä§ÇÔ", COLOR_TITLE_BUFF },
+    { "ï¿½ç³ªï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ä§ï¿½ï¿½", COLOR_TITLE_BUFF },
     { "Increase Heal efficiency" },
     { "%s", COLOR_TIME }
   }
@@ -4612,7 +4612,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF9] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 3,
   descript = {
-    { "¶ó±âÀÇ ½ä··ÇÔ", COLOR_TITLE_BUFF },
+    { "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ä··ï¿½ï¿½", COLOR_TITLE_BUFF },
     { "Increase MDEF" },
     { "%s", COLOR_TIME }
   }
@@ -4621,7 +4621,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF10] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 3,
   descript = {
-    { "¸á·ÎµðÀèÀÇ ºÒÇÊ¿äÇÔ", COLOR_TITLE_BUFF },
+    { "ï¿½ï¿½ï¿½Îµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ê¿ï¿½ï¿½ï¿½", COLOR_TITLE_BUFF },
     { "Increase Flee" },
     { "%s", COLOR_TIME }
   }
@@ -6375,7 +6375,8 @@ StateIconList[EFST_IDs.EFST_FESTER_1] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_2] = {
@@ -6384,7 +6385,8 @@ StateIconList[EFST_IDs.EFST_FESTER_2] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_3] = {
@@ -6393,7 +6395,8 @@ StateIconList[EFST_IDs.EFST_FESTER_3] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_4] = {
@@ -6402,7 +6405,8 @@ StateIconList[EFST_IDs.EFST_FESTER_4] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_5] = {
@@ -6411,7 +6415,8 @@ StateIconList[EFST_IDs.EFST_FESTER_5] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_6] = {
@@ -6420,7 +6425,8 @@ StateIconList[EFST_IDs.EFST_FESTER_6] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FESTER_7] = {
@@ -6429,7 +6435,8 @@ StateIconList[EFST_IDs.EFST_FESTER_7] = {
 	descript = {
 		{ "Fester", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is festering under a deadly poison!" }
+		{ "Your skin is festering under a deadly poison!" },
+		{ "Damage can be reduced by Poison Element Armor." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GERMINATING] = {
@@ -6438,7 +6445,18 @@ StateIconList[EFST_IDs.EFST_GERMINATING] = {
 	descript = {
 		{ "Germinating", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Your skin is host to a parasitic seed!" }
+		{ "Your skin is host to a parasitic seed!" },
+		{ "It will soon implode!" }
+	}
+}
+StateIconList[EFST_IDs.EFST_GERMINATING2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Germinating", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Your skin is host to a parasitic seed!" },
+		{ "It will soon explode!" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PYSCHOPOMP] = {
@@ -7303,8 +7321,8 @@ StateIconList[EFST_IDs.EFST_SMALLFLAVORS] = {
 	descript = {
 		{ "Gin Rejuvenation Potion!", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Restores 5% MHP" },
-		{ "every 5 seconds." }
+		{ "Restores 4% MHP" },
+		{ "every 3 seconds." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AURABLADE] = {
@@ -7516,7 +7534,7 @@ StateIconList[EFST_IDs.EFST_SPEEDOFLIGHT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Disease",
+			"Speed of Light",
 			COLOR_TITLE_BUFF
 		},
 		{ "%s", COLOR_TIME },
@@ -7838,4 +7856,4 @@ StateIconList[EFST_IDs.EFST_REUSE_MILLENNIUMSHIELD] = {
 		}
 }
 -- aste icons info end
--- laste update 05.01.2020 by aste
+-- laste update 13.03.2020 by aste
