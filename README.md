@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800px" src="assets/header.png">
+  <img width="800px" src="assets/astegrf-merry-update-thumb-sm.png">
 </p>
 
 # About aste grf
@@ -25,6 +25,40 @@ Even though it’s a woe grf at the first place, it’s still fully playable for
 Due to the encryption of mh2 graymap it can't be shared here in github, but if you still want to have it, you can use this clear grf with encrypted mh2 map as a base and build your own version of grf upon it [aste-grf-mh2-clear-base](https://github.com/asteanya/grf/releases/download/v2/aste-grf-mh2-clear-base.grf).
 
 ## Special thanks
+
+
+**Aste 2021:**
+
+I really glad to see someone as inspired as me continuing my work.
+I think our goal of making players gaming experience better is cleary can be read through whole grf, so i hope you will enjoy it.
+
+Thank you, **Merry**.
+
+
+**Merry 2021:**
+
+Special thanks to...
+Dudu
+Caul
+Azad
+Ila
+Soup
+Diversity
+...for helping me make, test, and improve various aspects of this grf by providing feedback.
+
+Shoutouts to...
+Acid
+Akinya
+Cyanidex
+Ducky
+Daniel
+Rino
+...for being amazing people who help keep me sane and deal with my antics on a regular basis.
+
+And finally, huge, huge thanks to Aste for originally starting the base of this amazing grf!
+
+
+**Aste 2019**
 
 Shoutouts to:
 
@@ -66,5 +100,3 @@ Huge love for my fellow 49 people, you are the best, i love you all <3
 
 For everyone who participated in the beta test, your help was enormous, this grf ended up this great only because of you. Thank you.
 Thanks to Nova and all NovaRo staff members for everything that you doing for us.
-
-**Aste 2019**
