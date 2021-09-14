@@ -4,7 +4,7 @@
 
 # About aste grf
 
-[![aste grf discord server](https://discordapp.com/api/guilds/610091815236010015/widget.png?style=shield)](https://discord.gg/r4Vp47G)
+[![aste grf discord server](https://discordapp.com/api/guilds/610091815236010015/widget.png?style=shield)](https://discord.gg/S6JjKW7Rpn)
 
 Game modification file for the Ragnarok Online mmorpg game created for NovaRo private server [NovaRo private server](https://www.novaragnarok.com/).
 
