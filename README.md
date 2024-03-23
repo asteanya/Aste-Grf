@@ -16,9 +16,4 @@ Redesigned fully from scratch with the feedback and experience from the best WOE
 Main goal of this GRF is to provide WOE ready experience for the players out of the box, improving FPS and visual clarity without sacrificing unnecessary effects and features.
 Aste Grf v2024 includes many new effects, features and optimizations from original GRF at the same time as featuring things that were never thought to be possible before.
 
-# Learn more about Aste Grf v2024
-
-[![Aste Grf v2024 Discord Server](https://discordapp.com/api/guilds/610091815236010015/widget.png?style=shield)](https://discord.gg/S6JjKW7Rpn)
-
-
-# ! Old version of aste Grf is no longer supported!
+# ! Old version of aste Grf is no longer supported !
