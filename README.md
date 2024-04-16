@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="800px" src="https://cdn.discordapp.com/attachments/597435089449779212/1220967033999589446/astegrf2024-poster.png?ex=6610dd29&is=65fe6829&hm=ce531225a510058f7f4e67653ef8a1a2d19b37c132ec754874bc5d0faf21718b&">
+  <img width="800px" src="../astegrf2024-poster.png">
 </p>
 
 # Aste Grf v2024 is here!
