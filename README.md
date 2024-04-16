@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="800px" src="../astegrf2024-poster.png">
+  <img width="800px" src="astegrf2024-poster.png">
 </p>
 
 # Aste Grf v2024 is here!
